@@ -30,7 +30,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [port-0-cloudtype-1maxx2algoivg4q.sel3.cloudtype.app]
+ALLOWED_HOSTS = ['port-0-cloudtype-1maxx2algoivg4q.sel3.cloudtype.app']
 
 
 # Application definition
